@@ -1,5 +1,5 @@
-added this from github 
+added this from GitHub
 
-dont do it we just practcing 
+don't do it we're just practicing
 
 editor: java is cool
